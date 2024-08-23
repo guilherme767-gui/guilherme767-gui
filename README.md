@@ -2,7 +2,7 @@
 
 Meu nome é Guilherme barbosa
 
-°estudo na alura start
+°estudo na [alura start](https://www.alura.com.br)
 
 °estou me desenvolvendo em meus projetos
 
@@ -14,3 +14,6 @@ Meu nome é Guilherme barbosa
 00001116120926sp@al.educacao.sp.gov.br
 
 ### instragram @guiba123b
+
+
+![](https://media1.tenor.com/m/ZMe398J4PoEAAAAC/ok-okay.gif)
